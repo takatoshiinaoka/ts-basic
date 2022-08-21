@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
+/* eslint-disable no-undef */
 const path = require('path');
 module.exports = {
     // モジュールバンドルを行う起点となるファイルの指定
