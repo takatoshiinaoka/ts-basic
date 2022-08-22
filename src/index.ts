@@ -43,3 +43,9 @@
 // 08.InterfaceとType Alias
 // import interfaceSample from "./interface/interface"
 // interfaceSample()
+
+// 10.非同期処理
+import callbackSample from './asynchranous/callback'
+import promiseSample from './asynchranous/promise'
+import asyncAwaitSample from './asynchranous/asyncAwait'
+asyncAwaitSample()
