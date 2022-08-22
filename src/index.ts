@@ -35,7 +35,11 @@
 // tupleSample()
 
 // 07.ジェネリック型とボリモーフィズム
-import genericsBasicSample from './generics/basic'
-import genericsAdvancedSample from './generics/advanced'
-genericsBasicSample()
-genericsAdvancedSample()
+// import genericsBasicSample from './generics/basic'
+// import genericsAdvancedSample from './generics/advanced'
+// genericsBasicSample()
+// genericsAdvancedSample()
+
+// 08.InterfaceとType Alias
+// import interfaceSample from "./interface/interface"
+// interfaceSample()
